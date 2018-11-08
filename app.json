@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#333",
+    "navigationBarTitleText": "摩托车队",
+    "disableScroll": true
+  }
+}

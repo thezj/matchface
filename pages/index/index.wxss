@@ -1,0 +1,144 @@
+page {
+  background: #fff;
+}
+
+.backgroundpic {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.customservice {
+  position: absolute;
+  width: 75rpx;
+  height: 75rpx;
+  left: 50%;
+  margin-left:-37rpx;
+  top: 0rpx;
+  z-index: 9;
+}
+
+.customservice button {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 2;
+  border: none;
+  background: none;
+}
+
+.customservice image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+.backgroundimage {
+  position: absolute;
+  width: 100%;
+  top: -45px;
+  left: 0px;
+  height: 50%;
+}
+
+.liteGameCard {
+  position: absolute;
+  left: 10%;
+  top: 8%;
+  height: 58%;
+  width: 80%;
+  box-sizing: border-box;
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 30px 8px rgba(0, 0, 0, 0.16);
+}
+
+.gameName {
+  position: absolute;
+  font-size: 60rpx;
+  color: #9912eb;
+  top: 6%;
+  font-weight: bold;
+  z-index: 4;
+  width: 100%;
+  padding-left: 7%;
+  text-align: left;
+}
+
+.gameNameicon {
+  position: absolute;
+  top: 19%;
+  height: 3%;
+  margin-left: 7%;
+  width: 170rpx;
+  background: #9812ea;
+}
+
+.gameDetail {
+  position: absolute;
+  font-size: 36rpx;
+  color: #9912eb;
+  top: 25%;
+  z-index: 4;
+  height: 58%;
+  width: 86%;
+  left: 7%;
+  padding: 12rpx;
+  box-sizing: border-box;
+}
+
+.gameProperty {
+  position: absolute;
+  font-size: 42rpx;
+  color: #9912eb;
+  top: 88%;
+  font-weight: bold;
+  z-index: 4;
+  width: 86%;
+  left: 7%;
+}
+
+.bottomView {
+  position: absolute;
+  height: 10%;
+  width: 80%;
+  left: 10%;
+  top: 70%;
+  text-align: center;
+}
+
+.gopunisher {
+  position: absolute;
+  right: 10%;
+  top: 70%;
+  height: 100rpx;
+  width: 100rpx;
+}
+
+.changebutton {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100rpx;
+  width: 100%;
+}
+
+.bottomViewhover .changebutton {
+  position: absolute;
+  left: 0;
+  top: -10rpx;
+  height: 120rpx;
+  width: 100%;
+}
+
+.advertisement {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
